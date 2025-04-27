@@ -1,4 +1,4 @@
-name = "cdn"
+name = "proxy-dev"
 compatibility_date = "2024-08-12"
 main = "src/index.ts"
 minify = true
